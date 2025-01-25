@@ -23,8 +23,12 @@
 ## 🎥 Demo
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/198b3d34-e5a5-430b-acce-0838d60af0a7" width="70%"> </video>
+  <video src="https://github.com/user-attachments/assets/310ec970-1034-4c92-b15c-95447dabd35d" width="70%"> </video>
 </div>
+
+
+
+
 
 
 
