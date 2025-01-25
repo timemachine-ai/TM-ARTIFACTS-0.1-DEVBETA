@@ -16,7 +16,7 @@
 
 ## 📰 News
 
-- [2024-1-24] 🚀🚀🚀 We are excited to release `Lumina-Image 2.0`, including:
+- [2024-1-25] 🚀🚀🚀 We are excited to release `Lumina-Image 2.0`, including:
   - 🎯 Checkpoints, Fine-Tuning and Inference code.
   - 🎯 Website & Demo are live now! Check out the [Huiying](https://magic-animation.intern-ai.org.cn/image/create) and [Gradio Demo](http://47.100.29.251:10010/)!
 
