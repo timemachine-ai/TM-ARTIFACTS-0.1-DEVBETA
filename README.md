@@ -14,6 +14,10 @@
 
 
 
+
+
+
+
 ## 📰 News
 
 - [2024-1-25] 🚀🚀🚀 We are excited to release `Lumina-Image 2.0`, including:
@@ -22,11 +26,15 @@
 
 ## 🎥 Demo
 
+
+
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/310ec970-1034-4c92-b15c-95447dabd35d" width="70%"> </video>
+  <video src="https://github.com/user-attachments/assets/b1d6dddf-4185-492d-b804-47d3d949adb5" width="70%"> </video>
 </div>
 
+## 🎨 Qualitative Performance
 
+![Qualitative Results](assets/Demo.png)
 
 
 
@@ -34,6 +42,14 @@
 
 ## 📊 Quantatitive Performance
 ![Quantitative Results](assets/quantitative.png)
+
+
+## 🎮 Model Zoo
+
+
+| Resolution | Parameter| Text Encoder | VAE | Download URL  |
+| ---------- | ----------------------- | ------------ | -----------|-------------- |
+| 1024       | 2B             |    [Gemma-2B](https://huggingface.co/google/gemma-2b)  |   [FLUX](https://huggingface.co/black-forest-labs/FLUX.1-dev) | [hugging face](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) |
 
 ## 💻 Finetuning Code
 ### 1. Create a conda environment and install PyTorch
