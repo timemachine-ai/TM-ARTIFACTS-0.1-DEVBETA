@@ -23,6 +23,7 @@
 - [2024-1-25] 🚀🚀🚀 We are excited to release `Lumina-Image 2.0`, including:
   - 🎯 Checkpoints, Fine-Tuning and Inference code.
   - 🎯 Website & Demo are live now! Check out the [Huiying](https://magic-animation.intern-ai.org.cn/image/create) and [Gradio Demo](http://47.100.29.251:10010/)!
+- [2024-1-31] 🚀🚀🚀 We have released the latest .pth format weight file [Google Drive](https://drive.google.com/drive/folders/1LQLh9CJwN3GOkS3unrqI0K_q9nbmqwBh?usp=drive_link).
 
 ## 🎥 Demo
 
@@ -49,7 +50,7 @@
 
 | Resolution | Parameter| Text Encoder | VAE | Download URL  |
 | ---------- | ----------------------- | ------------ | -----------|-------------- |
-| 1024       | 2B             |    [Gemma-2B](https://huggingface.co/google/gemma-2b)  |   [FLUX](https://huggingface.co/black-forest-labs/FLUX.1-dev) | [hugging face](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) |
+| 1024       | 2B             |    [Gemma-2B](https://huggingface.co/google/gemma-2b)  |   [FLUX](https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main/vae) | [hugging face](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) |
 
 ## 💻 Finetuning Code
 ### 1. Create a conda environment and install PyTorch
@@ -80,6 +81,8 @@ bash scripts/run_1024_finetune.sh
 ```
 ## 🚀 Inference Code
 We support multiple solvers including Midpoint Solver, Euler Solver, and **DPM Solver** for inference.
+> [!Note]
+> Both the Gradio demo and the direct inference method use the .pth format weight file, which can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1LQLh9CJwN3GOkS3unrqI0K_q9nbmqwBh?usp=drive_link).
 - Gradio Demo
 ```python   
 python demo.py \
