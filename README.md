@@ -83,6 +83,9 @@ bash scripts/run_1024_finetune.sh
 We support multiple solvers including Midpoint Solver, Euler Solver, and **DPM Solver** for inference.
 > [!Note]
 > Both the Gradio demo and the direct inference method use the .pth format weight file, which can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1LQLh9CJwN3GOkS3unrqI0K_q9nbmqwBh?usp=drive_link).
+
+> [!Note]
+> You can also directly download from [huggingface](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/tree/main). We have uploaded the .pth weight files, and you can simply specify the `--ckpt` argument as the download directory.
 - Gradio Demo
 ```python   
 python demo.py \
