@@ -3,7 +3,10 @@
  <br>
 </p>
 
-# 	Lumina-Image 2.0 : A Unified and Efficient Image Generative Model
+<div align="center">
+<h1> Lumina-Image 2.0 : A Unified and Efficient Image Generative Model </h1>
+
+</div>
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/Lumina--Image--2.0%20checkpoints-Model(2B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20Lumina-Image-2.0%20checkpoints)](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)
