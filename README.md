@@ -53,7 +53,7 @@
 
 | Resolution | Parameter| Text Encoder | VAE | Download URL  |
 | ---------- | ----------------------- | ------------ | -----------|-------------- |
-| 1024       | 2B             |    [Gemma-2B](https://huggingface.co/google/gemma-2b)  |   [FLUX-VAE-16CH](https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main/vae) | [hugging face](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) |
+| 1024       | 2.6B             |    [Gemma-2B](https://huggingface.co/google/gemma-2b)  |   [FLUX-VAE-16CH](https://huggingface.co/black-forest-labs/FLUX.1-dev/tree/main/vae) | [hugging face](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) |
 
 ## 💻 Finetuning Code
 ### 1. Create a conda environment and install PyTorch
