@@ -11,6 +11,9 @@
 
 [![Static Badge](https://img.shields.io/badge/Lumina--Image--2.0%20checkpoints-Model(2B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20Lumina-Image-2.0%20checkpoints)](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)
 
+
+<a href="https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged"><img src="https://img.shields.io/static/v1?label=ComfyUI&message=huggingface&color=yellow"></a>
+
 [![Static Badge](https://img.shields.io/badge/Huiying-6B88E3?logo=youtubegaming&label=Demo%20Lumina-Image-2.0)](https://magic-animation.intern-ai.org.cn/image/create)&#160;
 [![Static Badge](https://img.shields.io/badge/Gradio-6B88E3?logo=youtubegaming&label=Demo%20Lumina-Image-2.0)](http://47.100.29.251:10010/)&#160;
 </div>
@@ -27,6 +30,19 @@
   - 🎯 Checkpoints, Fine-Tuning and Inference code.
   - 🎯 Website & Demo are live now! Check out the [Huiying](https://magic-animation.intern-ai.org.cn/image/create) and [Gradio Demo](http://47.100.29.251:10010/)!
 - [2024-1-31] 🚀🚀🚀 We have released the latest .pth format weight file [Google Drive](https://drive.google.com/drive/folders/1LQLh9CJwN3GOkS3unrqI0K_q9nbmqwBh?usp=drive_link).
+- [2024-2-4] 🚀🚀🚀 We're excited that our project now supports [**ComfyUI**](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged)! Feel free to give it a try. 
+
+## 📑 Open-source Plan
+
+ - [x] Inference 
+ - [x] Checkpoints
+ - [x] Web Demo (Gradio)
+ - [x] Finetuning code
+ - [x] ComfyUI
+ - [ ] Diffusers
+ - [ ] Technical Report
+ - [ ] Unified multi-image generation
+
 
 ## 🎥 Demo
 
