@@ -42,7 +42,8 @@
  - [ ] Diffusers
  - [ ] Technical Report
  - [ ] Unified multi-image generation
-
+ - [ ] Control
+ - [ ] PEFT (LLaMa-Adapter V2)
 
 ## 🎥 Demo
 
