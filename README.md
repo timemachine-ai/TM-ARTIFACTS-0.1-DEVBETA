@@ -24,7 +24,7 @@
 
 
 ## 📰 News
-- [2025-2-10] Preliminary explorations of video generation with **[Lumina-Video 1.0](https://github.com/Alpha-VLLM/Lumina-Video) have been released.
+- [2025-2-10] Preliminary explorations of video generation with **[Lumina-Video 1.0](https://github.com/Alpha-VLLM/Lumina-Video)** have been released.
 - [2025-2-5] **[ComfyUI](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged) now supports Lumina-Image 2.0!** 🎉 Thanks to **ComfyUI**[@ComfyUI](https://github.com/comfyanonymous/ComfyUI)! 🙌 Feel free to try it out! 🚀
 - [2025-1-31] We have released the latest .pth format weight file [Google Drive](https://drive.google.com/drive/folders/1LQLh9CJwN3GOkS3unrqI0K_q9nbmqwBh?usp=drive_link).
 - [2025-1-25] 🚀🚀🚀 We are excited to release `Lumina-Image 2.0`, including:
