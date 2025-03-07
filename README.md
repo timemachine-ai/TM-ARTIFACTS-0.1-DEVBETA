@@ -127,4 +127,17 @@ python demo.py \
 bash scripts/sample.sh
 ```
 
+## Citation
+
+If you find the provided code or models useful for your research, consider citing them as:
+
+```bib
+misc{lumina2,
+    author={Qi Qin, Le Zhuo, Yi Xin, Ruoyi Du, Zhen Li, Bin Fu, Yiting Lu, Xinyue Li, Dongyang Liu, Xiangyang Zhu, Will Beddow, Erwann Millon, Victor Perez,Wenhai Wang, Yu Qiao, Bo Zhang, Xiaohong Liu, Hongsheng Li, Chang Xu, Peng Gao},
+    title={Lumina-Image 2.0: A Unified and Efficient Image Generative Framework},
+    year={2025},
+    howpublished={\url{https://github.com/Alpha-VLLM/Lumina-Image-2.0}},
+}
+```
+
 
