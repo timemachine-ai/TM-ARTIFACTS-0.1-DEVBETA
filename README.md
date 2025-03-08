@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-<h1> Lumina-Image 2.0 : A Unified and Efficient Image Generative Model </h1>
+<h1> Lumina-Image 2.0: A Unified and Efficient Image Generative Framework </h1>
 
 </div>
 <div align="center">
