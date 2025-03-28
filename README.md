@@ -140,7 +140,10 @@ If you find the provided code or models useful for your research, consider citin
     author={Qi Qin and Le Zhuo and Yi Xin and Ruoyi Du and Zhen Li and Bin Fu and Yiting Lu and Xinyue Li and Dongyang Liu and Xiangyang Zhu and Will Beddow and Erwann Millon and Victor Perez,Wenhai Wang and Yu Qiao and Bo Zhang and Xiaohong Liu and Hongsheng Li and Chang Xu and Peng Gao},
     title={Lumina-Image 2.0: A Unified and Efficient Image Generative Framework},
     year={2025},
-    howpublished={\url{https://github.com/Alpha-VLLM/Lumina-Image-2.0}},
+    eprint={2503.21758},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/pdf/2503.21758}, 
 }
 ```
 
