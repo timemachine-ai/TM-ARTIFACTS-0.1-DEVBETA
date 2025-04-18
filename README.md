@@ -1,62 +1,6 @@
-<p align="center">
- <img src="./assets/lumina2-logo.png" width="40%"/>
- <br>
-</p>
-
-<div align="center">
-<h1> Lumina-Image 2.0: A Unified and Efficient Image Generative Framework </h1>
+<h1> TimeMachine ARTIFACTS V0.1 DEV BETA </h1>
 
 </div>
-<div align="center">
-
-[![Lumina-Next](https://img.shields.io/badge/Paper-Lumina--Image--2.0-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2503.21758)&#160;
-[![Badge](https://img.shields.io/badge/-WeChat@Join%20Our%20Group-000000?logo=wechat&logoColor=07C160)](http://47.100.29.251:11001/)&#160;
-
-[![Static Badge](https://img.shields.io/badge/Lumina--Image--2.0%20checkpoints-Model(2B)-yellow?logoColor=violet&label=%F0%9F%A4%97%20Lumina-Image-2.0%20checkpoints)](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)
-[![Static Badge](https://img.shields.io/badge/Lumina--Image--2.0-HF_Space-yellow?logoColor=violet&label=%F0%9F%A4%97%20Demo%20Lumina-Image-2.0)](https://huggingface.co/spaces/Alpha-VLLM/Lumina-Image-2.0)
-[![Lumina-Next](https://img.shields.io/badge/Lumina--Image--2.0-Diffusers-yellow?logo=Lumina-Image-2.0&logoColor=yellow)]([https://arxiv.org/abs/2503.21758](https://huggingface.co/docs/diffusers/main/en/api/pipelines/lumina2))&#160;
-
-
-[![Static Badge](https://img.shields.io/badge/Huiying-6B88E3?logo=youtubegaming&label=Demo%20Lumina-Image-2.0)](https://magic-animation.intern-ai.org.cn/image/create)&#160;
-[![Static Badge](https://img.shields.io/badge/Gradio-6B88E3?logo=youtubegaming&label=Demo%20Lumina-Image-2.0)](http://47.100.29.251:10010/)&#160;
-
-</div>
-
-
-
-
-
-
-
-## 📰 News
-- [2025-3-28] 👋👋👋 We are excited to announce the release of the Lumina-Image 2.0 [Tech Report](https://arxiv.org/abs/2503.21758). We welcome discussions and feedback! 
-- [2025-2-20] Diffusers team released a LoRA fine-tuning script for Lumina2. Find out more [here](https://github.com/huggingface/diffusers/blob/main/examples/dreambooth/README_lumina2.md).
-- [2025-2-12] Lumina 2.0 is now available in Diffusers. Check out the [docs](https://huggingface.co/docs/diffusers/main/en/api/pipelines/lumina2) to know more.
-- [2025-2-10] The official [Hugging Face Space](https://huggingface.co/spaces/Alpha-VLLM/Lumina-Image-2.0) for Lumina-Image 2.0 is now available.
-- [2025-2-10] Preliminary explorations of video generation with **[Lumina-Video 1.0](https://github.com/Alpha-VLLM/Lumina-Video)** have been released.
-- [2025-2-5] **[ComfyUI](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged) now supports Lumina-Image 2.0!** 🎉 Thanks to **ComfyUI**[@ComfyUI](https://github.com/comfyanonymous/ComfyUI)! 🙌 Feel free to try it out! 🚀
-- [2025-1-31] We have released the latest .pth format weight file [Hugging Face](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0/tree/main).
-- [2025-1-25] 🚀🚀🚀 We are excited to release `Lumina-Image 2.0`, including:
-  - 🎯 Checkpoints, Fine-Tuning and Inference code.
-  - 🎯 Website & Demo are live now! Check out the [Huiying](https://magic-animation.intern-ai.org.cn/image/create) and [Gradio Demo](http://47.100.29.251:10010/)!
-
-
-
-## 📑 Open-source Plan
-
- - [x] Inference 
- - [x] Checkpoints
- - [x] Web Demo (Gradio)
- - [x] Finetuning code
- - [x] ComfyUI
- - [x] Diffusers
- - [x] LoRA
- - [x] Technical Report
- - [ ] Unified multi-image generation
- - [ ] Control
- - [ ] PEFT (LLaMa-Adapter V2)
-
-## 🎥 Demo
 
 
 
