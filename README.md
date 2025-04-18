@@ -1,4 +1,4 @@
-<h1> TimeMachine ARTIFACTS V0.1 DEV BETA </h1>
+<h1> TimeMachine ARTIFACTS (Lumina Image) V0.1 DEV BETA </h1>
 
 </div>
 
