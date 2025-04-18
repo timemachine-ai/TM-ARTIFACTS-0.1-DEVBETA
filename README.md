@@ -4,10 +4,6 @@
 
 
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/b1d6dddf-4185-492d-b804-47d3d949adb5" width="70%"> </video>
-</div>
-
 ## 🎨 Qualitative Performance
 
 ![Qualitative Results](assets/Demo.png)
